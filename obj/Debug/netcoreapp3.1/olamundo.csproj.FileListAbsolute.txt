@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\olamundo\bin\Debug\netcoreapp3.1\olamundo.exe
+C:\Users\Maria Luiza\Documents\Luiza\olamundo\bin\Debug\netcoreapp3.1\olamundo.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\olamundo\bin\Debug\netcoreapp3.1\olamundo.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\olamundo\bin\Debug\netcoreapp3.1\olamundo.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\olamundo\bin\Debug\netcoreapp3.1\olamundo.dll
+C:\Users\Maria Luiza\Documents\Luiza\olamundo\bin\Debug\netcoreapp3.1\olamundo.pdb
+C:\Users\Maria Luiza\Documents\Luiza\olamundo\obj\Debug\netcoreapp3.1\olamundo.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\olamundo\obj\Debug\netcoreapp3.1\olamundo.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\olamundo\obj\Debug\netcoreapp3.1\olamundo.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\olamundo\obj\Debug\netcoreapp3.1\olamundo.dll
+C:\Users\Maria Luiza\Documents\Luiza\olamundo\obj\Debug\netcoreapp3.1\olamundo.pdb
